@@ -1,0 +1,26 @@
+﻿Skill,Key Ability,Use Untrained,Armor Check Penality,Jedi,Noble,Scoundrel,Scout,Soldier
+Acrobatics,Dex,Sometimes,Yes,Yes,No,Yes,No,No
+Climb,Stre,Always,Yes,No,No,No,Yes,Yes
+Deception,Cha,Always,No,No,Yes,Yes,No,No
+Endurance,Con,Always,Yes,Yes,No,No,Yes,Yes
+Gather Information,Cha,Always,No,No,Yes,Yes,No,No
+Initiative,Dex,Always,Yes,Yes,Yes,Yes,Yes,Yes
+Jump,Stre,Always,Yes,No,No,No,Yes,Yes
+Knowledge (Bureaucracy),Inte,Sometimes,No,Yes,Yes,Yes,Yes,No
+Knowledge (Galactic lore),Inte,Sometimes,No,Yes,Yes,Yes,Yes,No
+Knowledge (Life sciences),Inte,Sometimes,No,Yes,Yes,Yes,Yes,No
+Knowledge (Physical sciences),Inte,Sometimes,No,Yes,Yes,Yes,Yes,No
+Knowledge (Social sciences),Inte,Sometimes,No,Yes,Yes,Yes,Yes,No
+Knowledge (Tactics),Inte,Sometimes,No,Yes,Yes,Yes,Yes,Yes
+Knowledge (Technology),Inte,Sometimes,No,Yes,Yes,Yes,Yes,No
+Mechanics,Inte,Never,No,No,No,Yes,Yes,Yes
+Perception,Wis,Sometimes,No,Yes,Yes,Yes,Yes,Yes
+Persuasion,Cha,Always,No,No,Yes,Yes,No,No
+Pilot,Dex,Sometimes,No,Yes,Yes,Yes,Yes,Yes
+Ride,Dex,Always,Yes,No,Yes,No,Yes,No
+Stealth,Dex,Always,Yes,No,No,Yes,Yes,No
+Survival,Stre,Sometimes,No,No,No,No,Yes,No
+Swim,Stre,Always,Yes,No,No,No,Yes,Yes
+Treat Injury,Wis,Sometimes,No,No,Yes,No,No,Yes
+Use Computer,Inte,Sometimes,No,No,Yes,Yes,No,Yes
+Use the Force,Cha,Sometimes,No,Yes,No,No,No,No

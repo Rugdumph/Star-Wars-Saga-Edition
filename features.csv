@@ -1,0 +1,67 @@
+﻿Name,Feats,Skill,Base Att,Str,Dex,Con,Int,Wis,Cha,Species,Description,Rulebook
+Acrobatic Strike,None,Acrobatics,None,None,None,None,None,None,None,All,Gain +2 competence bonus on next attack against opponent you Tumble past.,Saga Edition Core Rulebook
+Armor Proficiency (Heavy),"Armor Proficiency (Light), Armor Proficiency (Medium)",None,None,None,None,None,None,None,None,All,"No penalty on attacks and no Armor Check Penalty while wearing Light Armor, Medium Armor, or Heavy Armor.",Saga Edition Core Rulebook
+Armor Proficiency (Light),None,None,None,None,None,None,None,None,None,All,No penalty on attacks and no Armor Check Penalty while wearing Light Armor.,Saga Edition Core Rulebook
+Armor Proficiency (Medium),Armor Proficiency (Light),None,None,None,None,None,None,None,None,All,No penalty on attacks and no Armor Check Penalty while wearing Light Armor or Medium Armor.,Saga Edition Core Rulebook
+Bantha Rush,None,None,1,13,None,None,None,None,None,All,Push opponent 1 square after making a successful melee attack.,Saga Edition Core Rulebook
+Burst Fire,Weapon Proficiency (Heavy Weapons),None,None,None,None,None,None,None,None,All,Take a -5 penalty on an Autofire attack to gain +2 dice of damage.,Saga Edition Core Rulebook
+Careful Shot,Point-Blank Shot,None,2,None,None,None,None,None,None,All,"If you Aim, gain +1 bonus on the attack roll.",Saga Edition Core Rulebook
+Charging Fire,None,None,2,None,None,None,None,None,None,All,"Make ranged attack at end of a Charge, at a -2 penalty.",Saga Edition Core Rulebook
+Cleave,Power Attack,None,None,13,None,None,None,None,None,All,Extra melee attack after dropping target.,Saga Edition Core Rulebook
+Combat Reflexes,None,None,None,None,None,None,None,None,None,All,Gain additional Attacks of Opportunity. ,Saga Edition Core Rulebook
+Coordinated Attack,None,None,2,None,None,None,None,None,None,All,Automatic success with Aid Another action at Point-Blank Range.,Saga Edition Core Rulebook
+Crush,Pin,None,1,None,None,None,None,None,None,All,Deal Unarmed or Claw damage to a Pinned opponent.,Saga Edition Core Rulebook
+Cybernetic Surgery,None,Treat Injury,None,None,None,None,None,None,None,All,Install a Cybernetic Prosthesis onto a living being.,Saga Edition Core Rulebook
+Deadeye,"Point-Blank Shot, Precise Shot",None,4,None,None,None,None,None,None,All,"If you Aim, deal extra damage.",Saga Edition Core Rulebook
+Dodge,None,None,None,None,13,None,None,None,None,All,Gain a +1 dodge bonus to Reflex Defense against a selected target.,Saga Edition Core Rulebook
+Double Attack,None,None,6,None,None,None,None,None,None,All,"Make an extra attack with chosen weapon during Full Attack, -5 penalty to all attacks.",Saga Edition Core Rulebook
+Dreadful Rage,None,None,1,None,None,None,None,None,None,Rage,Rage bonus to attacks and damage increases to +4.,Saga Edition Core Rulebook
+Dual Weapon Mastery I,None,None,1,None,13,None,None,None,None,All,"Take a -5 penalty on attacks when attacking with two weapons, or both ends of a double weapon.",Saga Edition Core Rulebook
+Dual Weapon Mastery II,Dual Weapon Mastery I,None,6,None,15,None,None,None,None,All,"Take a -2 penalty on attacks when attacking with two weapons, or both ends of a double weapon.",Saga Edition Core Rulebook
+Dual Weapon Mastery III,"Dual Weapon Mastery I, Dual Weapon Mastery II",None,11,None,17,None,None,None,None,All,"Take no penalty on attacks when attacking with two weapons, or both ends of a double weapon.",Saga Edition Core Rulebook
+Exotic Weapon Proficiency,None,None,1,None,None,None,None,None,None,All,Wield an Exotic Weapon without penalty.,Saga Edition Core Rulebook
+Extra Rage,None,None,None,None,None,None,None,None,None,Rage,Rage one additional time per day.,Saga Edition Core Rulebook
+Extra Second Wind,None,Endurance,None,None,None,None,None,None,None,All,Gain an additional Second Wind per day.,Saga Edition Core Rulebook
+Far Shot,Point-Blank Shot,None,None,None,None,None,None,None,None,All,"Range penalties for Short-, Medium-, and Long-ranged attacks are reduced.",Saga Edition Core Rulebook
+Force Boon,Force Sensitivity,None,None,None,None,None,None,None,None,All,Gain three additional Force Points at each level.,Saga Edition Core Rulebook
+Force Sensitivity,None,None,None,None,None,None,None,None,None,Non-Droid,You can make Use the Force checks and gain access to Force Talents.,Saga Edition Core Rulebook
+Force Training,Force Sensitivity,None,None,None,None,None,None,None,None,All,Learn a number of Force Powers equal to 1 + your Wisdom modifier (Minimum 1).,Saga Edition Core Rulebook
+Great Cleave,"Power Attack, Cleave",None,4,13,None,None,None,None,None,All,No limit to Cleave attacks each round.,Saga Edition Core Rulebook
+Improved Charge,"Dodge, Mobility",None,None,None,None,None,None,None,None,All,You can Charge without moving in a straight line.,Saga Edition Core Rulebook
+Improved Defenses,None,None,None,None,None,None,None,None,None,All,Gain +1 bonus to all Defenses.,Saga Edition Core Rulebook
+Improved Disarm,Melee Defense,None,None,None,None,None,13,None,None,All,Gain +5 bonus on melee attacks to Disarm an opponent.,Saga Edition Core Rulebook
+Improved Damage Threshold,None,None,None,None,None,None,None,None,None,All,Damage Threshold increases by 5 points.,Saga Edition Core Rulebook
+Linguist,None,None,None,None,None,None,13,None,None,All,Gain bonus Languages equal to 1 + your Intelligence modifier (Minimum 1).,Saga Edition Core Rulebook
+Martial Arts I,None,None,None,None,None,None,None,None,None,All,Increases damage from Unarmed attacks by one die step; gain +1 bonus to Reflex Defense.,Saga Edition Core Rulebook
+Martial Arts II,Martial Arts I,None,3,None,None,None,None,None,None,All,Increases damage from Unarmed attacks by one die step; gain +1 bonus to Reflex Defense.,Saga Edition Core Rulebook
+Martial Arts III,"Martial Arts I, Martial Arts II",None,6,None,None,None,None,None,None,All,Increases damage from Unarmed attacks by one die step; gain +1 bonus to Reflex Defense.,Saga Edition Core Rulebook
+Melee Defense,None,None,None,None,None,None,13,None,None,All,Trade attack bonus on melee attacks for a dodge bonus to Reflex Defense.,Saga Edition Core Rulebook
+Mighty Swing,None,None,None,13,None,None,None,None,None,All,Spend two Swift Actions to deal extra damage in melee.,Saga Edition Core Rulebook
+Mobility,Dodge,None,None,None,13,None,None,None,None,All,Gain +5 dodge bonus to Reflex Defense against some Attacks of Opportunity.,Saga Edition Core Rulebook
+Pin,None,None,1,None,None,None,None,None,None,All,"Grappled opponent is Pinned for one round, can't move, and and loses it's Dexterity bonus to Reflex Defense.",Saga Edition Core Rulebook
+Point-Blank Shot,None,None,None,None,None,None,None,None,None,All,+1 bonus on ranged attacks and damage against foes within Point-Blank Range.,Saga Edition Core Rulebook
+Power Attack,None,None,None,13,None,None,None,None,None,All,Trade attack bonus for damage on melee attacks (Up to your Base Attack Bonus).,Saga Edition Core Rulebook
+Powerful Charge,None,None,1,None,None,None,None,None,None,Medium,"Gain +2 bonus on your attack roll while Charging, and deal extra damage.",Saga Edition Core Rulebook
+Powerful Charge,None,None,1,None,None,None,None,None,None,Large,"Gain +2 bonus on your attack roll while Charging, and deal extra damage.",Saga Edition Core Rulebook
+Powerful Charge,None,None,1,None,None,None,None,None,None,Huge,"Gain +2 bonus on your attack roll while Charging, and deal extra damage.",Saga Edition Core Rulebook
+Precise Shot,Point-Blank Shot,None,None,None,None,None,None,None,None,All,No -5 penalty for shooting into melee.,Saga Edition Core Rulebook
+Quick Draw,None,None,1,None,None,None,None,None,None,All,Draw weapon as a Swift Action.,Saga Edition Core Rulebook
+Rapid Shot,None,None,1,None,None,None,None,None,None,All,Take a -2 penalty on a ranged attack roll to deal +1 die of damage.,Saga Edition Core Rulebook
+Rapid Strike,None,None,1,None,None,None,None,None,None,All,Take a -2 penalty on a melee attack roll to deal +1 die of damage.,Saga Edition Core Rulebook
+Running Attack,None,None,None,None,13,None,None,None,None,All,Move before and after making an attack.,Saga Edition Core Rulebook
+Shake It Off,None,Endurance,None,None,None,13,None,None,None,All,Spend two Swift Actions to move +1 step along the Condition Track.,Saga Edition Core Rulebook
+Skill Focus,None,None,None,None,None,None,None,None,None,All,Gain +5 competence bonus on Skill Checks with one Trained Skill.,Saga Edition Core Rulebook
+Skill Training,None,None,None,None,None,None,None,None,None,All,You become Trained in one Class Skill.,Saga Edition Core Rulebook
+Sniper,"Point-Blank Shot, Precise Shot",None,4,None,None,None,None,None,None,All,You ignore Soft Cover when making a ranged attack.,Saga Edition Core Rulebook
+Strong in the Force,None,None,None,None,None,None,None,None,None,All,Roll d8s instead of d6s when you spend a Force Point.,Saga Edition Core Rulebook
+Surgical Expertise,None,Treat Injury,None,None,None,None,None,None,None,All,You can perform Surgery in 10 minutes instead of 1 hour.,Saga Edition Core Rulebook
+Throw,Trip,None,1,None,None,None,None,None,None,All,Throw a Grappled opponent up to 1 square beyond your reach and deal damage.,Saga Edition Core Rulebook
+Toughness,None,None,None,None,None,None,None,None,None,All,Gain +1 Hit Point per Character Level.,Saga Edition Core Rulebook
+Trip,None,None,1,None,None,None,None,None,None,All,"Trip an opponent that you've Grappled, knocking it Prone.",Saga Edition Core Rulebook
+Triple Attack,Double Attack,None,9,None,None,None,None,None,None,All,"Make second extra attack with chosen weapon during Full Attack, additional -5 penalty to all attacks.",Saga Edition Core Rulebook
+Triple Crit,None,None,8,None,None,None,None,None,None,All,Deal triple damage on a Critical Hit.,Saga Edition Core Rulebook
+Vehicular Combat,None,Pilot,None,None,None,None,None,None,None,All,Negate one attack per round against the Vehicle you're piloting.,Saga Edition Core Rulebook
+Weapon Finesse,None,None,1,None,None,None,None,None,None,All,Use Dexterity modifier instead of Strength modifier on attack rolls with Light Melee Weapons and Lightsabers.,Saga Edition Core Rulebook
+Weapon Focus,None,None,None,None,None,None,None,None,None,All,+1 bonus on attack rolls with chosen weapon.,Saga Edition Core Rulebook
+Weapon Proficiency,None,None,None,None,None,None,None,None,None,All,Ignore -5 penalty on attack rolls with weapons of a particular type.,Saga Edition Core Rulebook
+Whirlwind Attack,Melee Defense,None,4,None,13,None,13,None,None,All,Make one melee attack against each opponent within reach.,Saga Edition Core Rulebook

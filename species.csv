@@ -1,0 +1,18 @@
+﻿Species,Speed,Languages,Size,Traits,Stre,Dex,Con,Inte,Wis,Cha
+Human,6,Basic,Medium,"Bonus Trained Skill, Bonus Feat",0,0,0,0,0,0
+Bothan,6,"Bothese, Basic",Medium,"Iron Will, Conditional Bonus Feat",0,2,-2,0,0,0
+Cerean,6,"Basic, Cerean",Medium,"Intuitive Initiative, Conditional Bonus Feat",0,-2,0,2,2,0
+Duros,6,"Basic, Durese",Medium,Expert Pilot,0,2,-2,2,0,0
+Ewok,4,Ewokese,Small,"Primitive, Scent, Sneaky, Conditional Bonus Feat",-2,2,0,0,0,0
+Gamorrean,6,"Gamorrean (speak only), Basic (cannot speak)",Medium,"Primitive, Great Fortitude, Bonus Feat",2,-2,0,-2,0,0
+Gungan,6,"Basic, Gunganese",Medium,"Lightning Reflexes, Low-Light Vision, Weapon Familiarity",0,2,0,-2,0,-2
+Ithorian,x,x,x,x,0,-2,0,0,2,2
+Kel Dor,x,x,x,x,0,2,-2,0,2,0
+Mon Calamari,x,x,x,x,0,0,-2,2,2,0
+Quarren,x,x,x,x,0,0,2,0,-2,-2
+Rodian,x,x,x,x,0,2,0,0,2,-2
+Sullustan,x,x,x,x,0,2,-2,0,0,0
+Trandoshan,x,x,x,x,2,-2,0,0,0,0
+Twilek,x,x,x,x,0,0,0,0,-2,2
+Wookiee,x,x,x,x,4,-2,2,0,-2,-2
+Zabrak,x,x,x,x,0,0,0,0,0,0
